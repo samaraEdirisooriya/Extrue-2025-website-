@@ -1,0 +1,242 @@
+
+
+@font-face {
+    font-family: "flaticon_new_it_solution";
+    src: url("../fonts/flaticon_new_it_solution.woff2") format("woff2"),
+url("../fonts/flaticon_new_it_solution.woff") format("woff"),
+url("../fonts/flaticon_new_it_solution.eot#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_new_it_solution.ttf") format("truetype"),
+url("../images/flaticon_new_it_solution.svg#flaticon_new_it_solution") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_new_it_solution !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-phone:before {
+    content: "\f101";
+}
+.flaticon-facebook-1:before {
+    content: "\f102";
+}
+.flaticon-minus:before {
+    content: "\f103";
+}
+.flaticon-add-1:before {
+    content: "\f104";
+}
+.flaticon-phone-call:before {
+    content: "\f105";
+}
+.flaticon-search:before {
+    content: "\f106";
+}
+.flaticon-video:before {
+    content: "\f107";
+}
+.flaticon-email:before {
+    content: "\f108";
+}
+.flaticon-calendar-1:before {
+    content: "\f109";
+}
+.flaticon-twitter:before {
+    content: "\f10a";
+}
+.flaticon-instagram:before {
+    content: "\f10b";
+}
+.flaticon-facebook:before {
+    content: "\f10c";
+}
+.flaticon-stakeholder:before {
+    content: "\f10d";
+}
+.flaticon-menu-1:before {
+    content: "\f10e";
+}
+.flaticon-information:before {
+    content: "\f10f";
+}
+.flaticon-pie-chart:before {
+    content: "\f110";
+}
+.flaticon-save-the-world:before {
+    content: "\f111";
+}
+.flaticon-play:before {
+    content: "\f112";
+}
+.flaticon-add:before {
+    content: "\f113";
+}
+.flaticon-left-and-right-arrows:before {
+    content: "\f114";
+}
+.flaticon-like:before {
+    content: "\f115";
+}
+.flaticon-menu:before {
+    content: "\f116";
+}
+.flaticon-dots-menu:before {
+    content: "\f117";
+}
+.flaticon-emails:before {
+    content: "\f118";
+}
+.flaticon-old-typical-phone:before {
+    content: "\f119";
+}
+.flaticon-home:before {
+    content: "\f11a";
+}
+.flaticon-conversation:before {
+    content: "\f11b";
+}
+.flaticon-calendar:before {
+    content: "\f11c";
+}
+.flaticon-businessman:before {
+    content: "\f11d";
+}
+.flaticon-magnifying-glass:before {
+    content: "\f11e";
+}
+.flaticon-rain:before {
+    content: "\f11f";
+}
+.flaticon-left-arrow:before {
+    content: "\f120";
+}
+.flaticon-update:before {
+    content: "\f121";
+}
+.flaticon-designing:before {
+    content: "\f122";
+}
+.flaticon-quote:before {
+    content: "\f123";
+}
+.flaticon-solution:before {
+    content: "\f124";
+}
+.flaticon-production:before {
+    content: "\f125";
+}
+.flaticon-innovation-1:before {
+    content: "\f126";
+}
+.flaticon-setting:before {
+    content: "\f127";
+}
+.flaticon-up-right-arrow:before {
+    content: "\f128";
+}
+.flaticon-play-button-arrowhead:before {
+    content: "\f129";
+}
+.flaticon-back-arrow:before {
+    content: "\f12a";
+}
+.flaticon-medal-1:before {
+    content: "\f12b";
+}
+.flaticon-iteration:before {
+    content: "\f12c";
+}
+.flaticon-teamwork:before {
+    content: "\f12d";
+}
+.flaticon-good-review:before {
+    content: "\f12e";
+}
+.flaticon-diagonal-arrow-1:before {
+    content: "\f12f";
+}
+.flaticon-technical-support:before {
+    content: "\f130";
+}
+.flaticon-internet:before {
+    content: "\f131";
+}
+.flaticon-innovation:before {
+    content: "\f132";
+}
+.flaticon-edge-computing-2:before {
+    content: "\f133";
+}
+.flaticon-digital-campaign:before {
+    content: "\f134";
+}
+.flaticon-strategy-1:before {
+    content: "\f135";
+}
+.flaticon-next-1:before {
+    content: "\f136";
+}
+.flaticon-right-arrows:before {
+    content: "\f137";
+}
+.flaticon-medal:before {
+    content: "\f138";
+}
+.flaticon-next:before {
+    content: "\f139";
+}
+.flaticon-right-arrow:before {
+    content: "\f13a";
+}
+.flaticon-right:before {
+    content: "\f13b";
+}
+.flaticon-text:before {
+    content: "\f13c";
+}
+.flaticon-diagonal-arrow:before {
+    content: "\f13d";
+}
+.flaticon-padlock:before {
+    content: "\f13e";
+}
+.flaticon-down-right:before {
+    content: "\f13f";
+}
+.flaticon-technology:before {
+    content: "\f140";
+}
+.flaticon-creativity:before {
+    content: "\f141";
+}
+.flaticon-edge-computing-1:before {
+    content: "\f142";
+}
+.flaticon-cloud:before {
+    content: "\f143";
+}
+.flaticon-strategy:before {
+    content: "\f144";
+}
+.flaticon-developing:before {
+    content: "\f145";
+}
+.flaticon-expertise:before {
+    content: "\f146";
+}
+.flaticon-new-product:before {
+    content: "\f147";
+}
+.flaticon-best-seller:before {
+    content: "\f148";
+}
+.flaticon-design-thinking:before {
+    content: "\f149";
+}
+
