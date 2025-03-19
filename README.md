@@ -24,13 +24,15 @@ The website is built with modern **frontend** and **backend** technologies to en
 
 ## 📸 **Screenshots**  
 🚀 **Homepage**  
-![Homepage](path/to/homepage.png)  
+![Homepage](1.png)  
 
 🚀 **Project Showcase**  
-![Project Showcase](path/to/showcase.png)  
+![Project Showcase](2.1.png)  
 
 🚀 **Event Schedule**  
-![Event Schedule](path/to/schedule.png)  
+![Event Schedule](3.1.png) 
+![Event Schedule](4.1.png) 
+![Event Schedule](5.1.png)  
 
 ## 🎯 **Features**  
 ✅ **Fully responsive** and mobile-friendly UI  
